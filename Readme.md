@@ -1,7 +1,7 @@
 ![](https://img.shields.io/badge/Project-2-red)
 [Live Link](https://food-restaurant-home-page-1.netlify.app/)
 
-## Screeshort
+## Screenshort
 ![Screeshort](Screenshots/Screenshot.png)
    * * *
   ## What i learned from this project
